@@ -31,4 +31,4 @@ int getIntValue(){
   int no = int.parse(stdin.readLineSync()!);
 }*/
 
-// land le le bhai
+// ye galti se copy paste hua tha bhai
